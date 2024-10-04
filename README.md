@@ -27,22 +27,27 @@ As seguintes perguntas foram abordadas neste projeto:
 
 4. **Qual é a média de desmatamento anual por bioma?**
    - Esta consulta calcula a média de área desmatada anualmente para cada bioma.
+   
      ![image](https://github.com/user-attachments/assets/31516af0-89d6-4fe3-8c53-b3446bf09a3f)
 
 5. **Quais municípios apresentaram aumento no desmatamento em um ano específico?**
    - Esta consulta identifica municípios que tiveram um aumento no desmatamento em um ano escolhido.
+     
      ![image](https://github.com/user-attachments/assets/682f4600-6112-47b3-827e-44ee75807a12)
 
 6. **Qual bioma teve o menor desmatamento em um determinado ano?**
    - Esta consulta determina qual bioma teve a menor área desmatada em um ano específico.
+     
      ![image](https://github.com/user-attachments/assets/afdfab62-0d13-4bde-9c40-95dfc33c90fb)
 
 7. **Qual a distribuição do desmatamento por bioma em um gráfico?**
    - Esta análise gera gráficos para visualizar a distribuição do desmatamento entre diferentes biomas.
+     
      ![image](https://github.com/user-attachments/assets/5c8bd443-6328-4c83-8638-8789d0b3ee6d)
 
 8. **Quais municípios tiveram a maior área desmatada no último ano disponível?**
    - Esta consulta lista os municípios que apresentaram a maior área desmatada no último ano de dados disponível.
+     
      ![image](https://github.com/user-attachments/assets/2b1f0c28-ecd3-46b9-98e9-e13a45d7a622)
 
 
